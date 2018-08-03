@@ -1,0 +1,8 @@
+main-api/node_modules
+main-api/package-lock.json
+
+microservice1/node_modules
+microservice1/package-lock.json
+
+microservice2/node_modules
+microservice2/package-lock.json
